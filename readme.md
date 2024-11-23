@@ -38,8 +38,8 @@ function calculate() {
 ## Setup Instructions
 ### Clone the repository
 ```bash
-git clone https://github.com/<your-username>/calculator-app.git
-cd calculator-app
+git clone [https://github.com/jiayimitt/Calculator.git]
+cd Calculator
 ```
 
 ### Running the Application
