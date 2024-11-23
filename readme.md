@@ -54,4 +54,4 @@ Provides the layout styling for the app, making it visually appealing and respon
 Handles the logic for displaying the input, performing calculations, and managing button clicks.
 
 ## Live Demo
-You can view the live demo of the app on GitHub Pages: [Live Demo](https://<your-username>.github.io/calculator-app/)
+You can view the live demo of the app on GitHub Pages: [Live Demo](https://calculatorjy.netlify.app/)
